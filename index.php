@@ -1,1 +1,1 @@
-<?php include_once(blue-simulador.html); ?>
+<?php include_once("blue-simulador.html"); ?>
