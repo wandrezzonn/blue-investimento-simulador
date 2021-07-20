@@ -1,1 +1,1 @@
-echo '<? Php include_once (blue-simulador.html); ?> '
+echo "<? Php include_once (blue-simulador.html); ?>"
